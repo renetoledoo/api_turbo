@@ -1,0 +1,92 @@
+{
+  {
+    "nome": "Carro A",
+    "modelo": "Modelo 123",
+    "preço": 25000.00,
+    "imagem": "https://github.com/renetoledoo/api_turbo/blob/main/vista-do-carro-3d%20(1).jpg"
+  },
+  {
+    "nome": "Carro B",
+    "modelo": "Modelo 456",
+    "preço": 32000.00,
+    "imagem": "https://github.com/renetoledoo/api_turbo/blob/main/vista-do-carro-3d%20(2).jpg"
+  },
+  {
+    "nome": "Carro C",
+    "modelo": "Modelo 789",
+    "preço": 29000.00,
+    "imagem": "https://github.com/renetoledoo/api_turbo/blob/main/vista-do-carro-3d.jpg"
+  },
+  {
+    "nome": "Carro D",
+    "modelo": "Modelo 101",
+    "preço": 35000.00,
+    "imagem": "https://github.com/renetoledoo/api_turbo/blob/main/vista-do-carro-3d%20(1).jpg"
+  },
+  {
+    "nome": "Carro E",
+    "modelo": "Modelo 202",
+    "preço": 27000.00,
+    "imagem": "https://github.com/renetoledoo/api_turbo/blob/main/vista-do-carro-3d%20(2).jpg"
+  },
+  {
+    "nome": "Carro F",
+    "modelo": "Modelo 303",
+    "preço": 38000.00,
+    "imagem": "https://github.com/renetoledoo/api_turbo/blob/main/vista-do-carro-3d.jpg"
+  },
+  {
+    "nome": "Carro G",
+    "modelo": "Modelo 404",
+    "preço": 31000.00,
+    "imagem": "https://github.com/renetoledoo/api_turbo/blob/main/vista-do-carro-3d%20(1).jpg"
+  },
+  {
+    "nome": "Carro H",
+    "modelo": "Modelo 505",
+    "preço": 26000.00,
+    "imagem": "https://github.com/renetoledoo/api_turbo/blob/main/vista-do-carro-3d%20(2).jpg"
+  },
+  {
+    "nome": "Carro I",
+    "modelo": "Modelo 606",
+    "preço": 29000.00,
+    "imagem": "https://github.com/renetoledoo/api_turbo/blob/main/vista-do-carro-3d.jpg"
+  },
+  {
+    "nome": "Carro J",
+    "modelo": "Modelo 707",
+    "preço": 27000.00,
+    "imagem": "https://github.com/renetoledoo/api_turbo/blob/main/vista-do-carro-3d%20(1).jpg"
+  },
+  {
+    "nome": "Carro K",
+    "modelo": "Modelo 808",
+    "preço": 34000.00,
+    "imagem": "https://github.com/renetoledoo/api_turbo/blob/main/vista-do-carro-3d%20(2).jpg"
+  },
+  {
+    "nome": "Carro L",
+    "modelo": "Modelo 909",
+    "preço": 28000.00,
+    "imagem": "https://github.com/renetoledoo/api_turbo/blob/main/vista-do-carro-3d.jpg"
+  },
+  {
+    "nome": "Carro M",
+    "modelo": "Modelo 1010",
+    "preço": 39000.00,
+    "imagem": "https://github.com/renetoledoo/api_turbo/blob/main/vista-do-carro-3d%20(1).jpg"
+  },
+  {
+    "nome": "Carro N",
+    "modelo": "Modelo 1111",
+    "preço": 30000.00,
+    "imagem": "https://github.com/renetoledoo/api_turbo/blob/main/vista-do-carro-3d%20(2).jpg"
+  },
+  {
+    "nome": "Carro O",
+    "modelo": "Modelo 1212",
+    "preço": 32000.00,
+    "imagem": "https://github.com/renetoledoo/api_turbo/blob/main/vista-do-carro-3d.jpg"
+  }
+}
