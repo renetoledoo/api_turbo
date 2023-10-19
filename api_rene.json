@@ -1,4 +1,4 @@
-{
+[
   {
     "nome": "Carro A",
     "modelo": "Modelo 123",
@@ -89,4 +89,4 @@
     "preço": 32000.00,
     "imagem": "https://github.com/renetoledoo/api_turbo/blob/main/vista-do-carro-3d.jpg"
   }
-}
+]
